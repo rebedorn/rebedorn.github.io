@@ -4,7 +4,7 @@ collection: teaching
 type: "Educational Director"
 permalink: /teaching/3
 venue: "Habonim Dror Camp Moshava"
-date: "2020"
+date: "2020-07-01"
 location: "Street, MD"
 ---
 
