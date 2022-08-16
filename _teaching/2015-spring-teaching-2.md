@@ -4,7 +4,7 @@ collection: teaching
 type: "Course Tutor"
 permalink: /teaching/2
 venue: "UC Santa Cruz"
-date: "2020"
+date: "2019-04-01"
 location: "Santa Cruz, CA"
 ---
 
