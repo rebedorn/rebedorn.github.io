@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/1
 venue: "UC Santa Cruz"
+date: "2020"
 location: "Santa Cruz, CA"
 ---
 I helped put together the first instantiation of UC Santa Cruz’s Ethics & Algorithms undergraduate computer science course. 

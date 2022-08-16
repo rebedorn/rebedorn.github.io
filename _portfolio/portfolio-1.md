@@ -1,7 +1,6 @@
 ---
 title: "Characteristics of Uninsured Citizens Recieving Unemployment Benefits"
 venue: "Families USA"
-excerpt: "Characteristics of Uninsured Citizens Recieving Unemployment Benefits"
 collection: portfolio
 ---
 
