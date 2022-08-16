@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Dorn"
-  avatar           : "images/profile.png"
+  avatar           : "./images/profile.png"
   bio              : ""
   location         : "Los Angeles, CA"
   employer         :
