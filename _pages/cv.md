@@ -8,9 +8,21 @@ redirect_from:
 ---
 
 <a href=[http://www.adobe.com/prodlist.pdf](https://github.com/rebedorn/rebedorn.github.io/blob/master/CV_fairness.pdf)>
-** website updated 11:10 AM **
+** website updated 11:12 AM **
   ** Not a functional page yet **
 
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="https://github.com/rebedorn/rebedorn.github.io/blob/master/CV_fairness.pdf">example</a>.</p>
+  </body>
+</html>
+  
+  
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
