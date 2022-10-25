@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
+<a href=[http://www.adobe.com/prodlist.pdf](https://github.com/rebedorn/rebedorn.github.io/blob/master/CV_fairness.pdf)>
 ** Not a functional page yet **
 
 Education
