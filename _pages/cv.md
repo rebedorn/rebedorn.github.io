@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 <a href=[http://www.adobe.com/prodlist.pdf](https://github.com/rebedorn/rebedorn.github.io/blob/master/CV_fairness.pdf)>
-** Not a functional page yet **
+** website updated 11:10 AM **
+  ** Not a functional page yet **
 
 Education
 ======
